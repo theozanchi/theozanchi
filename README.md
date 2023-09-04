@@ -3,6 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical" alt="Top Langs" height="180em" style="margin-left: 30px;">
 </p>
 
+![Théo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical)
 
 <!--
 
