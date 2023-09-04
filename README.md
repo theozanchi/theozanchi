@@ -1,11 +1,8 @@
-![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical" alt="Top Langs" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em" style="margin-right: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical" alt="Top Langs" height="180em" style="margin-left: 15px;">
 </p>
+
 
 <!--
 
