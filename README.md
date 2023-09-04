@@ -1,6 +1,12 @@
 ![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical" alt="Top Langs" height="180em">
+</p>
+
 <!--
 
 **theozanchi/theozanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
