@@ -27,21 +27,21 @@ I am
   <table align="center">
     <tr>
       <!-- Text for first logo -->
-      <td align="center">
+      <td align="center" style="width: 50%;">
         <strong>Strategic project manager for the IT subsidiary of SNCF Voyageurs</strong>
       </td>
       <!-- Text for second logo -->
-      <td align="center">
+      <td align="center" style="width: 50%;">
         <strong>Senior IT consultant specialized in data management</strong>
       </td>
     </tr>
     <tr>
       <!-- First logo -->
-      <td align="center">
+      <td align="center" style="width: 50%;">
         <img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="60">
       </td>
       <!-- Second logo -->
-      <td align="center">
+      <td align="center" style="width: 50%;">
         <img src=".github/media/logo_kynapse.svg" alt="Logo Kynapse" height="60">
       </td>
     </tr>
