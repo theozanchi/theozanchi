@@ -30,29 +30,19 @@ I am
       <td align="center">
         <strong>Strategic project manager for the IT subsidiary of SNCF Voyageurs</strong>
       </td>
-      <!-- Separating cell -->
-      <td width="50"></td>
       <!-- Text for second logo -->
       <td align="center">
-        <strong>Seniro IT consultant specialized in data management</strong>
-      </td>
-    </tr>
-    <tr>
-      <!-- Separating line -->
-      <td colspan="3">
-        <hr>
+        <strong>Senior IT consultant specialized in data management</strong>
       </td>
     </tr>
     <tr>
       <!-- First logo -->
       <td align="center">
-        <img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="100">
+        <img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="60">
       </td>
-      <!-- Separating cell -->
-      <td width="50"></td>
       <!-- Second logo -->
       <td align="center">
-        <img src=".github/media/logo_kynapse.svg" alt="Logo Kynapse" height="100">
+        <img src=".github/media/logo_kynapse.svg" alt="Logo Kynapse" height="60">
       </td>
     </tr>
   </table>
