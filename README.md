@@ -10,7 +10,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
 </p>
 
 <!--START_SECTION:languages-->
-<h3 align="center"><img src = ".github/media/rainbow.gif" width = 30px> My languages</h3>
+<h1 align="center"><img src = ".github/media/rainbow.gif" width = 30px> My languages</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
@@ -30,7 +30,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:professional_experience-->
-<h3 align="center"><img src = ".github/media/nerd.gif" width = 30px> My professional experience</h3>
+<h1 align="center"><img src = ".github/media/nerd.gif" width = 30px> My professional experience</h1>
 
 <p align="center">
   <table align="center">
