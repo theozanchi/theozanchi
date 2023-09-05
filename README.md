@@ -12,4 +12,5 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
 </p>
 
-![Logo SNCF Voyageurs](.github/media/logo_sncf_voyageurs.svg)
+<img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="100">
+
