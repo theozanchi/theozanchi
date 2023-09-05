@@ -13,4 +13,4 @@
 </p>
 
 <img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="100">
-
+<img src=".github/media/logo_kynapse.svg" alt="Logo Kynapse" height="100">
