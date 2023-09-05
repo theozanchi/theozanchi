@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h2 align="center"><img src = ".github/media/wave.gif" width = 30px> Hi there! I'm Théo</h2>
+<h1 align="center"><img src = ".github/media/wave.gif" width = 30px> Hi there! I'm Théo</h1>
 
 <p align="center">
 I am a back-end software engineering currently studying at <a href="https://42berlin.de/">42 Berlin</a>! I have worked in IT since 2019 and decided to learn software engineering in March 2023.<br>Passionate about trains, I am looking for a position in the rail industry starting from April 2024.
