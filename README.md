@@ -10,11 +10,17 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--Languages-->
+<h3 align="center">My languages</h3>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
 </p>
+
+<!--Professional experience-->
+<h3 align="center">My professional experience</h3>
 
 <img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="100">
 <img src=".github/media/logo_kynapse.svg" alt="Logo Kynapse" height="100">
