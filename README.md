@@ -11,7 +11,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
   </a>
 </p>
 
-<!--START_SECTION:languages-->
+<!--Languages-->
 <h1 align="center"><img src = ".github/media/rainbow.gif" width = 30px> My languages</h1>
 
 <p align="center">
@@ -19,19 +19,17 @@ I am a back-end software engineering currently studying at <a href="https://42be
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
 </p>
-<!--END_SECTION:languages-->
 
-<!--START_SECTION:github_stats-->
+<!--GitHub stats-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em" style="margin-right: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical" alt="Top Langs" height="180em" style="margin-left: 30px;">
 </p>
-<!--END_SECTION:github_stats-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:professional_experience-->
+<!--Professional experience-->
 <h1 align="center"><img src = ".github/media/nerd.gif" width = 30px> My professional experience</h1>
 
 <p align="center">
@@ -62,4 +60,3 @@ I am a back-end software engineering currently studying at <a href="https://42be
     </tr>
   </table>
 </p>
-<!--END_SECTION:professional_experience-->
