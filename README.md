@@ -27,7 +27,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
 <!--GitHub stats-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em" style="margin-right: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical" alt="Top Langs" height="180em" style="margin-left: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical&hide=html,css" alt="Top Langs" height="180em" style="margin-left: 30px;">
 </p>
 
 <!--START_SECTION:waka-->
