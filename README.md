@@ -34,10 +34,10 @@ I am a back-end software engineering currently studying at <a href="https://42be
 <h1 align="center"><img src = ".github/media/nerd.gif" width = 30px> My coding tutorials</h1>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=uwEc-TEASjQ" target="_blank">
-    	<img src=".github/media/thumbnail_terminal_tutorial.png" alt="Thumbnail terminal tutorial" height="250">
+    	<img src=".github/media/thumbnail_terminal_tutorial.png" alt="Thumbnail terminal tutorial" height="200">
     </a>
 	<a href="https://www.youtube.com/watch?v=kcXm2ZtTNzk" target="_blank">
-    	<img src=".github/media/thumbnail_git_tutorial.jpg" alt="Thumbnail Git tutorial" height="250">
+    	<img src=".github/media/thumbnail_git_tutorial.jpg" alt="Thumbnail Git tutorial" height="200">
     </a>
 </p>
 
