@@ -30,6 +30,12 @@ I am a back-end software engineering currently studying at <a href="https://42be
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical&hide=html,css,makefile,dockerfile,shell" alt="Top Langs" height="180em" style="margin-left: 30px;">
 </p>
 
+<!--My coding tutorials-->
+<h1 align="center"><img src = ".github/media/nerd.gif" width = 30px> My coding tutorials</h1>
+<p align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/uwEc-TEASjQ?si=UzQz5LYNXcWGNMIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
