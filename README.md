@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center"><img src = ".github/media/wave.gif" width = 30px> Hi there! I'm Théo</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width = 30px> Hi there! I'm Théo</h1>
 
 <p align="center">
 I am a back-end software engineering currently studying at <a href="https://42berlin.de/" target="_blank">42 Berlin</a>! I have worked in IT since 2019 and decided to learn software engineering in March 2023.<br>Passionate about trains, I am looking for a position in the rail industry starting from April 2024.
@@ -16,7 +16,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
 </p>
 
 <!--Languages-->
-<h1 align="center"><img src = ".github/media/rainbow.gif" width = 30px> My languages</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My languages</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
@@ -31,7 +31,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
 </p>
 
 <!--My coding tutorials-->
-<h1 align="center"><img src = ".github/media/nerd.gif" width = 30px> My coding tutorials</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width = 30px> My coding tutorials</h1>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=uwEc-TEASjQ" target="_blank">
     	<img src=".github/media/thumbnail_terminal_tutorial.png" alt="Thumbnail terminal tutorial" height="200">
@@ -45,7 +45,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
 <!--END_SECTION:waka-->
 
 <!--Professional experience-->
-<h1 align="center"><img src = ".github/media/nerd.gif" width = 30px> My professional experience</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width = 30px> My professional experience</h1>
 
 <p align="center">
   <table align="center">
