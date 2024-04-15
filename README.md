@@ -22,12 +22,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
-</p>
-
-<!--GitHub stats-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em" style="margin-right: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical&hide=html,css,makefile,dockerfile,shell" alt="Top Langs" height="180em" style="margin-left: 30px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
 </p>
 
 <!--My coding tutorials-->
@@ -41,8 +36,13 @@ I am a back-end software engineering currently studying at <a href="https://42be
     </a>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--GitHub stats-->
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em" style="margin-right: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical&hide=html,css,makefile,dockerfile,shell" alt="Top Langs" height="180em" style="margin-left: 30px;">
+</p>
+
 
 <!--Professional experience-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width = 30px> My professional experience</h1>
