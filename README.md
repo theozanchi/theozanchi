@@ -25,7 +25,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
 </p>
 
-<!--My coding tutorials-->
+<!--42torials-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width = 30px> My coding tutorials</h1>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=uwEc-TEASjQ" target="_blank">
@@ -35,6 +35,23 @@ I am a back-end software engineering currently studying at <a href="https://42be
     	<img src=".github/media/thumbnail_git_tutorial.jpg" alt="Thumbnail Git tutorial" height="200">
     </a>
 </p>
+
+<!--Projects-->
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" width = 30px> Some of my projects</h1>
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/theozanchi/42_Berlin_minishell"><img src=".github/media/minishell_badge.png" alt="Minishell badge" height="100"></a></td>
+    <td><h4>Recreating bash in C, without any external library</h4></td>
+    <td><a href="https://github.com/theozanchi/42_Berlin_minirt"><img src=".github/media/minirt_badge.png" alt="MiniRT badge" height="100"></a></td>
+    <td><h4>Implementing a raytracer in C, without any external library</h4></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/theozanchi/42_Berlin_webserv"><img src=".github/media/webserv_badge.png" alt="Webserv badge" height="100"></a></td>
+    <td><h4>Recreating nginx in C++, to host a static website</h4></td>
+    <td><a href="https://github.com/theozanchi/42_Berlin_ft_transcendence"><img src=".github/media/ft_transcendence_badge.png" alt="ft_transcendence badge" height="100"></a></td>
+    <td><h4>Creating a containerized pong application, with chat and tournament features</h4></td>
+  </tr>
+</table>
 
 <!--GitHub stats-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
