@@ -86,7 +86,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
       </td>
       <!-- Second logo -->
       <td align="center" style="width: 50%;">
-        <a href="https://www.kynapse.fr/" target="_blank">
+        <a href="https://www.linkedin.com/company/kynapse/" target="_blank">
           <img src=".github/media/logo_kynapse.svg" alt="Logo Kynapse" height="60">
         </a>
       </td>
