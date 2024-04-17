@@ -47,7 +47,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
   </tr>
   <tr>
     <td><a href="https://github.com/theozanchi/42_Berlin_webserv"><img src=".github/media/webserv_badge.png" alt="Webserv badge" height="100"></a></td>
-    <td><h4>Recreating nginx in C++,<br> to host a static website</h4></td>
+    <td><h4>Recreating nginx in C++,<br>mer to host a static website</h4></td>
     <td><a href="https://github.com/theozanchi/42_Berlin_ft_transcendence"><img src=".github/media/ft_transcendence_badge.png" alt="ft_transcendence badge" height="100"></a></td>
     <td><h4>Creating a containerized pong application,<br> with chat and tournament features</h4></td>
   </tr>
