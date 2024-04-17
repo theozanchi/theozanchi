@@ -2,8 +2,6 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width = 30px> Hi there! I'm Théo</h1>
 
 <p align="center">
-I am a back-end software engineer trained at <a href="https://42berlin.de/" target="_blank">42 Berlin</a>! Passionate about the rail industry, I have been working in IT since 2019
-<br><br>
   <a href=".github/media/sncf.gif" target="_blank">
     <img src="https://img.shields.io/badge/railway-fe428e?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjRweCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6IiBmaWxsPSJub25lIi8+PGNpcmNsZSBjeD0iOC41IiBjeT0iMTQuNSIgcj0iMS41Ii8+PGNpcmNsZSBjeD0iMTUuNSIgY3k9IjE0LjUiIHI9IjEuNSIvPjxwYXRoIGQ9Ik0xMiAyYy00IDAtOCAuNS04IDR2OS41QzQgMTcuNDMgNS41NyAxOSA3LjUgMTlMNiAyMC41di41aDJsMi0yaDRsMiAyaDJ2LS41TDE2LjUgMTljMS45MyAwIDMuNS0xLjU3IDMuNS0zLjVWNmMwLTMuNS00LTQtOC00em0wIDJjMy41MSAwIDQuOTYuNDggNS41NyAxSDYuNDNjLjYxLS41MiAyLjA2LTEgNS41Ny0xek02IDdoNXYzSDZWN3ptMTIgOC41YzAgLjgzLS42NyAxLjUtMS41IDEuNWgtOWMtLjgzIDAtMS41LS42Ny0xLjUtMS41VjEyaDEydjMuNXptMC01LjVoLTVWN2g1djN6Ii8+PC9zdmc+&label=industry" alt="LinkedIn badge">
   </a>
@@ -17,9 +15,10 @@ I am a back-end software engineer trained at <a href="https://42berlin.de/" targ
     <img src="https://img.shields.io/badge/Th%C3%A9o_Zanchi-2867b2?logo=linkedin&label=LinkedIn" alt="LinkedIn badge">
   </a>
 </p>
+<h3 align="center">Passionate about the rail industry, I am looking for a new position in Berlin starting Q3 2024</h3>
 
 <!--Skills-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
+<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
@@ -34,7 +33,7 @@ I am a back-end software engineer trained at <a href="https://42berlin.de/" targ
 </p>
 
 <!--42torials-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width = 30px> My coding tutorials</h1>
+<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width = 30px> My coding tutorials</h1>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=uwEc-TEASjQ" target="_blank">
     	<img src=".github/media/thumbnail_terminal_tutorial.png" alt="Thumbnail terminal tutorial" height="200">
@@ -45,7 +44,7 @@ I am a back-end software engineer trained at <a href="https://42berlin.de/" targ
 </p>
 
 <!--Projects-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" width = 30px> Some of my projects</h1>
+<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" width = 30px> Some of my projects</h1>
 <table align="center">
   <tr>
     <td><a href="https://github.com/theozanchi/42_Berlin_minishell"><img src=".github/media/minishell_badge.png" alt="Minishell badge" width="100"></a></td>
@@ -62,7 +61,7 @@ I am a back-end software engineer trained at <a href="https://42berlin.de/" targ
 </table>
 
 <!--GitHub stats-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
+<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em" style="margin-right: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical&hide=html,css,makefile,dockerfile,shell" alt="Top Langs" height="180em" style="margin-left: 30px;">
@@ -70,7 +69,7 @@ I am a back-end software engineer trained at <a href="https://42berlin.de/" targ
 
 
 <!--Professional experience-->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width = 30px> My professional experience</h1>
+<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width = 30px> My professional experience</h1>
 
 <p align="center">
   <table align="center">
