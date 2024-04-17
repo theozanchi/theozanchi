@@ -81,7 +81,7 @@ I am a back-end software engineer currently studying at <a href="https://42berli
     <tr>
       <!-- First logo -->
       <td align="center" style="width: 50%;">
-        <a href="https://www.linkedin.com/company/sncf-connect-tech/about/" target="_blank">
+        <a href="https://www.linkedin.com/company/sncfconnecttech/" target="_blank">
           <img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="60">
         </a>
       </td>
