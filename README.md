@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/Th%C3%A9o_Zanchi-2867b2?logo=linkedin&label=LinkedIn" alt="LinkedIn badge">
   </a>
 </p>
-<h3 align="center">Passionate about the rail industry, I am looking for a new position in Berlin starting Q3 2024</h3>
+<h4 align="center">Passionate about the rail industry, I am looking for a new position in Berlin starting Q3 2024</h4>
 
 <!--Skills-->
-<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
@@ -33,7 +33,7 @@
 </p>
 
 <!--42torials-->
-<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width = 30px> My coding tutorials</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width = 30px> My coding tutorials</h1>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=uwEc-TEASjQ" target="_blank">
     	<img src=".github/media/thumbnail_terminal_tutorial.png" alt="Thumbnail terminal tutorial" height="200">
@@ -44,7 +44,7 @@
 </p>
 
 <!--Projects-->
-<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" width = 30px> Some of my projects</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" width = 30px> Some of my projects</h1>
 <table align="center">
   <tr>
     <td><a href="https://github.com/theozanchi/42_Berlin_minishell"><img src=".github/media/minishell_badge.png" alt="Minishell badge" width="100"></a></td>
@@ -61,7 +61,7 @@
 </table>
 
 <!--GitHub stats-->
-<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px> GitHub stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theozanchi&show_icons=true&theme=radical" alt="Théo's GitHub Stats" height="180em" style="margin-right: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theozanchi&theme=radical&hide=html,css,makefile,dockerfile,shell" alt="Top Langs" height="180em" style="margin-left: 30px;">
@@ -69,7 +69,7 @@
 
 
 <!--Professional experience-->
-<br><h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width = 30px> My professional experience</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width = 30px> My professional experience</h1>
 
 <p align="center">
   <table align="center">
