@@ -23,8 +23,12 @@ I am a back-end software engineer currently studying at <a href="https://42berli
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
+  <br>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100">
   <img src=".github/media/nginx_logo.png" height="100">
   <img src=".github/media/docker-mark-blue.png" height="100">
+  <img src=".github/media/azure_logo.png" height="100">
 </p>
 
 <!--42torials-->
