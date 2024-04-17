@@ -2,7 +2,7 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width = 30px> Hi there! I'm Théo</h1>
 
 <p align="center">
-I am a back-end software engineering currently studying at <a href="https://42berlin.de/" target="_blank">42 Berlin</a>! I have worked in IT since 2019 and decided to learn software engineering in March 2023.<br>Passionate about trains, I am looking for a position in the rail industry starting from April 2024.
+I am a back-end software engineer currently studying at <a href="https://42berlin.de/" target="_blank">42 Berlin</a>! I have worked in IT since 2019 and decided to learn software engineering in March 2023.<br>Passionate about trains, I am looking for a position in the rail industry starting Q3 2024.
 <br><br>
   <a href=".github/media/sncf.gif" target="_blank">
     <img src="https://img.shields.io/badge/railway-fe428e?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjRweCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6IiBmaWxsPSJub25lIi8+PGNpcmNsZSBjeD0iOC41IiBjeT0iMTQuNSIgcj0iMS41Ii8+PGNpcmNsZSBjeD0iMTUuNSIgY3k9IjE0LjUiIHI9IjEuNSIvPjxwYXRoIGQ9Ik0xMiAyYy00IDAtOCAuNS04IDR2OS41QzQgMTcuNDMgNS41NyAxOSA3LjUgMTlMNiAyMC41di41aDJsMi0yaDRsMiAyaDJ2LS41TDE2LjUgMTljMS45MyAwIDMuNS0xLjU3IDMuNS0zLjVWNmMwLTMuNS00LTQtOC00em0wIDJjMy41MSAwIDQuOTYuNDggNS41NyAxSDYuNDNjLjYxLS41MiAyLjA2LTEgNS41Ny0xek02IDdoNXYzSDZWN3ptMTIgOC41YzAgLjgzLS42NyAxLjUtMS41IDEuNWgtOWMtLjgzIDAtMS41LS42Ny0xLjUtMS41VjEyaDEydjMuNXptMC01LjVoLTVWN2g1djN6Ii8+PC9zdmc+&label=industry" alt="LinkedIn badge">
@@ -81,7 +81,7 @@ I am a back-end software engineering currently studying at <a href="https://42be
     <tr>
       <!-- First logo -->
       <td align="center" style="width: 50%;">
-        <a href="https://www.sncf.com/fr/sncf-voyageurs/nos-marches" target="_blank">
+        <a href="https://www.linkedin.com/company/sncf-connect-tech/about/" target="_blank">
           <img src=".github/media/logo_sncf_voyageurs.svg" alt="Logo SNCF Voyageurs" height="60">
         </a>
       </td>
