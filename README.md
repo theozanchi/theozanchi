@@ -41,15 +41,15 @@ I am a back-end software engineering currently studying at <a href="https://42be
 <table align="center">
   <tr>
     <td><a href="https://github.com/theozanchi/42_Berlin_minishell"><img src=".github/media/minishell_badge.png" alt="Minishell badge" width="100"></a></td>
-    <td><h4>Recreating bash in C,<br> without any external library</h4></td>
+    <td><h4>Recreating bash in C,<br> without any external library</h4><a href="https://github.com/theozanchi/42_Berlin_minishell">Link to repo</a></td>
     <td><a href="https://github.com/theozanchi/42_Berlin_minirt"><img src=".github/media/minirt_badge.png" alt="MiniRT badge" width="100"></a></td>
-    <td><h4>Implementing a raytracer in C,<br> without any external library</h4></td>
+    <td><h4>Implementing a raytracer in C,<br> without any external library</h4><a href="https://github.com/theozanchi/42_Berlin_minirt">Link to repo</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/theozanchi/42_Berlin_webserv"><img src=".github/media/webserv_badge.png" alt="Webserv badge" width="100"></a></td>
-    <td><h4>Recreating nginx in C++,<br>mer to host a static website</h4></td>
+    <td><h4>Recreating nginx in C++,<br>able to host a static website</h4><a href="https://github.com/theozanchi/42_Berlin_webserv">Link to repo</a></td>
     <td><a href="https://github.com/theozanchi/42_Berlin_ft_transcendence"><img src=".github/media/ft_transcendence_badge.png" alt="ft_transcendence badge" width="100"></a></td>
-    <td><h4>Creating a containerized pong application,<br> with chat and tournament features</h4></td>
+    <td><h4>TBC<br>Creating a containerized pong application,<br> with chat and tournament features</h4><a href="https://github.com/theozanchi/42_Berlin_ft_transcendence">Link to repo</a></td>
   </tr>
 </table>
 
