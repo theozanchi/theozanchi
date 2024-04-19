@@ -36,13 +36,13 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width = 30px> My coding tutorials</h1>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=uwEc-TEASjQ" target="_blank">
-    	<img src=".github/media/thumbnail_terminal_tutorial.png" alt="Thumbnail terminal tutorial" height="200">
+    	<img src=".github/media/thumbnail_terminal_tutorial.png" alt="Thumbnail terminal tutorial" width="300">
     </a>
 	<a href="https://www.youtube.com/watch?v=kcXm2ZtTNzk" target="_blank">
-    	<img src=".github/media/thumbnail_git_tutorial.jpg" alt="Thumbnail Git tutorial" height="200">
+    	<img src=".github/media/thumbnail_git_tutorial.jpg" alt="Thumbnail Git tutorial" width="300">
     </a>
 	<a href="https://www.youtube.com/watch?v=HOHZZAMC-4E" target="_blank">
-    	<img src=".github/media/thumbnail_var_pnt_tutorial.png" alt="Thumbnail variables and pointers tutorial" height="200">
+    	<img src=".github/media/thumbnail_var_pnt_tutorial.png" alt="Thumbnail variables and pointers tutorial" width="300">
     </a>
 </p>
 
