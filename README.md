@@ -41,7 +41,7 @@
 	<a href="https://www.youtube.com/watch?v=kcXm2ZtTNzk" target="_blank">
     	<img src=".github/media/thumbnail_git_tutorial.jpg" alt="Thumbnail Git tutorial" height="200">
     </a>
-	<a href="https://www.youtube.com/watch?v=HOHZZAMC" target="_blank">
+	<a href="https://www.youtube.com/watch?v=HOHZZAMC-4E" target="_blank">
     	<img src=".github/media/thumbnail_var_pnt_tutorial.png" alt="Thumbnail variables and pointers tutorial" height="200">
     </a>
 </p>
