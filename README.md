@@ -59,7 +59,7 @@
     <td><a href="https://github.com/theozanchi/42_Berlin_webserv"><img src=".github/media/webserv_badge.png" alt="Webserv badge" width="100"></a></td>
     <td><h4>Recreating nginx in C++,<br>able to host a static website</h4><a href="https://github.com/theozanchi/42_Berlin_webserv">Link to repo</a></td>
     <td><a href="https://github.com/theozanchi/42_Berlin_ft_transcendence"><img src=".github/media/ft_transcendence_badge.png" alt="ft_transcendence badge" width="100"></a></td>
-    <td><h4>TBC<br>Creating a containerized pong application,<br> with chat and tournament features</h4><a href="https://github.com/theozanchi/42_Berlin_ft_transcendence">Link to repo</a></td>
+    <td><h4>Creating a containerized pong application,<br> with chat and tournament features</h4><a href="https://github.com/theozanchi/42_Berlin_ft_transcendence">Link to repo</a></td>
   </tr>
 </table>
 
