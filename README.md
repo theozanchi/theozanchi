@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Th%C3%A9o_Zanchi-2867b2?logo=linkedin&label=LinkedIn" alt="LinkedIn badge">
   </a>
 </p>
-<h4 align="center">Passionate about the rail industry, I am looking for a new position in Berlin starting Q3 2024</h4>
+<h4 align="center">Passionate about the rail industry, I am looking for a new position starting Q1 2025</h4>
 
 <!--Skills-->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" width = 30px> My skills</h1>
